@@ -2,6 +2,16 @@
 
 ## EN 🇬🇧
 
+### B.Sc. Thesis
+
+The stream aimed at creating a service for 3D point clouds stretching and alignment considering different acquisition sensors.
+
+Hard skill: java, icp algorithm
+
+Soft skill: perspective, vision
+
+supervisor: Stefano Mattoccia, opponent: Federico Chesani
+
 ### GoodBikes
 
 The project aimed at building a custom ERP application for bike rental.
@@ -19,6 +29,16 @@ Soft skill: orthogonality, single access point, feedback, masks, appearance, fac
 - Telecommunications, electronics, electrics, automation and automatic controls;
 
 ## IT 🇮🇹
+
+### Tesi di Laurea Triennale
+
+Il filone puntava a creare un servizio per lo stretching e l'allineamento di nuvole di punti acquisite da differenti sensori.
+
+Hard skill: java, icp algorithm
+
+Soft skill: perspective, vision
+
+relatore: Stefano Mattoccia, avversario: Federico Chesani
 
 ### GoodBikes
 
