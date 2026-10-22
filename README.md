@@ -20,7 +20,7 @@ The code is available [here](https://github.com/GAntonacci95/good_bikes).
 
 Hard skill: c#, mvc, mvp, observer, adapter, facade;
 
-Soft skill: orthogonality, single access point, feedback, masks, appearance, facebook.
+Soft skill: orthogonality, single access point, positive and negative feedback loops, masks, appearance, facebook.
 
 ### Other relevant courses
 
@@ -48,7 +48,7 @@ Il codice è disponibile [qui](https://github.com/GAntonacci95/good_bikes).
 
 Hard skill: c#, mvc, mvp, osservatore, adattatore, facciata;
 
-Soft skill: ortogonalità, singolo punto d'accesso, rientro, larsen, maschere, apparenza, copertina.
+Soft skill: ortogonalità, singolo punto d'accesso, cicli feedback positivi e negativi, larsen, maschere, apparenza, copertina.
 
 ### Altri corsi rilevanti
 
