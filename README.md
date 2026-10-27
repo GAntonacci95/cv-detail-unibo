@@ -26,7 +26,7 @@ Soft skill: orthogonality, single access point, positive and negative feedback l
 
 - Computer networks, protocols and ISO/OSI communications model;
 - Operating systems, semaphores and race conditions;
-- Telecommunications, electronics, electrics, automation and automatic controls;
+- Telecommunications, electronics (DAC, ADC), electrics, automation and automatic controls;
 
 ## IT 🇮🇹
 
@@ -54,4 +54,4 @@ Soft skill: ortogonalità, singolo punto d'accesso, cicli feedback positivi e ne
 
 - Reti di calcolatori, protocolli e modello di comunicazione ISO/OSI;
 - Sistemi operativi, semafori, concorrenza e corse critiche;
-- Telecomunicazioni, elettronica, elettrica, automazione, controlli automatici;
+- Telecomunicazioni, elettronica (DAC, ADC), elettrotecnica, automazione, controlli automatici;
