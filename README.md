@@ -10,7 +10,7 @@ Hard skill: java, icp algorithm
 
 Soft skill: perspective, vision
 
-supervisor: Stefano Mattoccia, opponent: Federico Chesani
+supervisor: Stefano Mattoccia (stefano.mattoccia@unibo.it), opponent: Federico Chesani (federico.chesani@unibo.it)
 
 ### GoodBikes
 
@@ -38,7 +38,7 @@ Hard skill: java, icp algorithm
 
 Soft skill: perspective, vision
 
-relatore: Stefano Mattoccia, avversario: Federico Chesani
+relatore: Stefano Mattoccia (stefano.mattoccia@unibo.it), avversario: Federico Chesani (federico.chesani@unibo.it)
 
 ### GoodBikes
 
